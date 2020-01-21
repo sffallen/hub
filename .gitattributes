@@ -1,3 +1,5 @@
+# example taken from: https://gist.github.com/KirkMunro/d873a755b38a7bfa2495
+
 # Set default behaviour, in case users don't have core.autocrlf set.
 * text=auto
 
