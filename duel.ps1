@@ -6,7 +6,8 @@
 # First playable version enables full game for 2 players
 # players autonamed P1 & P2 1 role implemented "base" 4 cards implemented
 #
-#
+
+
 #
 # TODO
 #	- 
